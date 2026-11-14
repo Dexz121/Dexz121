@@ -53,5 +53,6 @@
 <h2>GitHub :octocat:</h2>
 <p align="left">
   <img alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexz121&theme=dark&hide_border=false" />
-  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexz121&theme=dark&layout=compact&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/Dexz121/Dexz121/output/github-snake-dark.svg" alt="snake" />
+
 </p>
